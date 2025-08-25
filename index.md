@@ -1,19 +1,21 @@
 ---
 layout: base
-title: John Tab 
+title: I'm Aadi Bhat
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is John.
+Hi! My name is Aadi Bhat.
 
-| Role         | Name     | Repo Location                       | Stream                | Repo Name |
-|--------------|----------|-------------------------------------|-----------------------|-----------|
-| Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
-| Scrummer     | Torin    | github.com/torin/student            | downstream (fork)     | student   |
-| Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
-| Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
+| Role                   | Name     | Repo Location                                     | Stream                | Repo Name |
+|------------------------|----------|---------------------------------------------------|-----------------------|-----------|
+| Scrum Master           | Risha G  | github.com/blackstar3092/student                        | upstream (OCS fork)   | student   |
+| Assistant Scrum Master| Anvay V  | github.com/CyberLord09/student                    | downstream (fork)     | student   |
+| Scrummer               | Ruta S   | github.com/ruta-sir/student                      | downstream (fork)     | student   |
+| Scrummer               | Vibha M  | github.com/vibha1019/student                                   |           downstream (fork)            |       student    |
+| Scrummer               | Aadi B   | github.com/aadibhat09/student                    | downstream (fork)     | student   |
+| Scrummer               | Neil C   | github.com/neil9674/student                      | downstream (fork)     | student   |
 
 
 ## Links to Learning
@@ -47,10 +49,3 @@ Hi! My name is John.
 </a>
 
 <br>
-
-<!-- Contact Section -->
-### Get in Touch
-
-> Feel free to reach out if you'd like to collaborate or learn more about our work.
-
-<p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
